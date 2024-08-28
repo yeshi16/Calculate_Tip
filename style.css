@@ -1,0 +1,9 @@
+.output{
+    height: 200px;
+    width: 200px;
+    color: darkblue;
+    padding-top: 20px;
+  }
+  h3{color: darkblue;}
+  
+  button {background-color: darkblue; color: white; padding: 6px;}
